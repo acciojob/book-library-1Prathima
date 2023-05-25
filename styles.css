@@ -21,16 +21,16 @@ body{
 	margin-right:auto;
 	width:40%;
 }
-.book h4{
+.book h2{
 	margin:2px;
 }
-.book h5{
+.book p{
 	color:#777777;
 	margin:0;	
 }
 
-.book section{
-	background-color:#2ecc71;
+.price-block{
+	background-color:rgb(46, 204, 113);
 	height:30px;
 	text-align:center;
 	padding:5px;
