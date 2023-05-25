@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f8f8f8;
+}
+
+.book-library{
+	text-align: center;
+}
+.divider{
+	background-color:white;
+	height:25px;
+}
+
+.book{
+	margin:20px auto;
+}
+
+.book img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+}
+.book h4{
+	margin:2px;
+}
+.book h5{
+	color:#777777;
+	margin:0;	
+}
+
+.book section{
+	background-color:#2ecc71;
+	height:30px;
+	text-align:center;
+	padding:5px;
+	margin-bottom:20px;
+}
