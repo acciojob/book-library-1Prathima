@@ -30,6 +30,7 @@ body{
 }
 
 .price-block{
+	color:rgb(255, 255, 255);
 	background-color:rgb(46, 204, 113);
 	height:30px;
 	text-align:center;
